@@ -1,4 +1,4 @@
-Online Shop Asp.Net Core Mvc
+<h2> Online Shop Asp.Net Core Mvc </h2>
 <br />
 -> Existe 4 tipuri de utilizatori: utilizator neinregistrat, inregistrat,
 colaborator, administrator 
