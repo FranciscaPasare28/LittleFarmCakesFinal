@@ -1,6 +1,8 @@
 Online Shop Asp.Net Core Mvc
+<br />
 -> Existe 4 tipuri de utilizatori: utilizator neinregistrat, inregistrat,
 colaborator, administrator 
+
 -> Utilizatorul colaborator poate adauga produse in magazin. Acesta va
 trimite cereri de adaugare administratorului, iar acesta le poate respinge sau
 aproba. Dupa aprobare produsele vor putea fi vizualizate in magazin
